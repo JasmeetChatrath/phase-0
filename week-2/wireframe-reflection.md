@@ -1,5 +1,5 @@
-![wireframe-index](/Users/jasmeetchatrath/Documents/Devbootcamp/phase-0/week-2/imgs/wireframe-index.png)
-![wireframe-blog](/Users/jasmeetchatrath/Documents/Devbootcamp/phase-0/week-2/imgs/wireframe-blog-index.png)
+<img src = "wireframe-index.png">
+<img src="wireframe-blog-index.png">
 
 . What is a wireframe?
 Wireframes can contain various states of button or menu behaviors.  Wireframing allows the designer to plan the layout without getting distracted by color or typeface choice.
