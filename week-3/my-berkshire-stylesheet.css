@@ -1,0 +1,70 @@
+html {
+  background-color: #ffffff;
+  color:#000080;
+}
+a:link {
+  color: #800080
+}
+a:visited{
+  color: #ff0000;
+}
+table{
+  margin: auto;
+}
+li{
+  padding: 10px;
+}
+li p{
+  font-size: 10px;
+}
+header{
+ font-weight: bold;
+ text-align: center;
+}
+header p{
+  line-height: 0.1em;
+}
+header p:first-child{
+  font-size: 17px;
+}
+header p:nth-child(2){
+  font-size: 13px;
+}
+header p:nth-child(3){
+  font-size: 13px;
+}
+span{
+  font-size: 37px;
+}
+aside{
+  text-align: center;
+  font-size: 10px;
+}
+.line{
+  width:98%;
+  height:1px;
+  background-color: grey;
+}
+footer{
+  font-size: 13px;
+}
+footer p:nth-child(4){
+  font-size: 10px;
+}
+/*
+What is important to know when linking an external file (like a stylesheet) to an HTML file?
+It is important to know the path we are linking to.  If we do this step incorrectly the styling changes we make in our css won't show up in our html file.
+
+What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+A trick I used a lot was to test out changes I made in CSS and see how they affected my page layout.  Seeing the changes live really helped solidify my knowledge.  It bacame much easier to see what needed adjustments as well.
+
+What CSS did you use to modify the element style (like size, color, etc)
+I used font-size, color, font-weight, text-align, margin, width, height, and line-height.
+
+Did you modify the HTML to include classes or ids? If so, which did you choose and why? If you didn't, how would you know which one to add to your HTML?
+I chose to add a section, header, footer, and aside.  I chose these to imporve the readability of my code and well as improve organizaion.
+
+When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+I think my site had cleaner code because we didn't adjust styling in the html.  Adding styling code directly to the html makes the code sloppier and in general is bad practice.
+
+*/
