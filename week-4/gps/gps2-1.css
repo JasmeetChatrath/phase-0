@@ -1,0 +1,31 @@
+header {
+  width: 100%;
+  background-color: red;
+  position: relative;
+}
+
+.column-1 {
+  width: 45%;
+  float: left;
+  background-color: blue;
+  display: inline-block;
+  margin: 5% 2.5% 5% 2.5%;
+
+}
+
+.column-2 {
+  width: 45%;
+  float: right;
+  left: 50%;
+  background-color: green;
+  display: inline-block;
+  margin: 5% 2.5% 5% 2.5%;
+}
+
+footer {
+  padding: 7%;
+  width: 100%;
+  clear: both;
+  background-color: purple;
+  bottom: 0;
+}
